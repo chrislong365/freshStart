@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^5.1.4",
+    "browser-monads": "^1.0.0",
     "gatsby": "^5.13.3",
     "gatsby-cli": "^5.13.2",
     "gatsby-plugin-manifest": "^5.13.1",
