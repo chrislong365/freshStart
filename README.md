@@ -1,10 +1,10 @@
 # freshStart
 
-This repository is a fresh start to the website.
+This repository is a fresh start to the website. Currently live [here](https://chrislong365.com).
 
 ## About
 
-This website is built using Gatsby, a powerful static site generator. It leverages the features and benefits of Gatsby to create a fast, efficient, and modern website.
+This website is built using Gatsby, a powerful static site generator. It leverages the features and benefits of Gatsby to create a fast, efficient, and modern website. Github pages are used to hosts the page, and cloudflare is acting as the DNS as well as CDN.
 
 ## Getting Started
 
